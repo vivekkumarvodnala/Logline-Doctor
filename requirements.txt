@@ -1,0 +1,21 @@
+# Your requested Autogen & App packages
+autogen-agentchat
+autogen-core
+autogen-ext
+python-dotenv
+openai
+tiktoken
+autogenstudio
+streamlit
+arxiv
+autogen
+# Required LangChain libraries for RAG
+langchain
+langchain-openai
+chromadb
+# --- NEW ADDITIONS ---
+# For Groq LLMs
+langchain-groq
+# For Free, Local Embeddings
+sentence-transformers
+langchain-huggingface
